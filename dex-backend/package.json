@@ -1,0 +1,32 @@
+{
+  "name": "dex-project",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "autoprefixer": "^10.4.21",
+    "hardhat": "^2.22.19",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.13.0",
+    "victory": "^37.3.6"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

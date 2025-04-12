@@ -1,0 +1,3 @@
+cd dex-backend
+npx hardhat run scripts/deploy.js --network localhost
+到my-defi-frontend\scr\config\contracts.js去修改合约地址
