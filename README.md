@@ -506,14 +506,8 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 ```
 
-3. 启动后端服务
 
-```bash
-cd dex-backend
-npm run dev
-```
-
-4. 启动前端服务
+3. 启动前端服务
 
 ```bash
 cd my-defi-frontend
